@@ -1,0 +1,19 @@
+.dp {
+    display: flex;
+    height: 25vh;
+    width: 20vw;
+    border-radius: 50%;
+}
+.intro div{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    color:aliceblue;
+}
+.intro{
+    margin-top: 10vh;
+    background-color: black;
+}
+.intro a{
+    color: azure;
+}
