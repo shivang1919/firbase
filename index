@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>clone</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body class="intro">
+    <div class>
+        <img class="dp"src="https://media-exp1.licdn.com/dms/image/C4D03AQErrf6iju0GLg/profile-displayphoto-shrink_800_800/0/1635564925149?e=1658966400&v=beta&t=FUOfL0jeUv0BvGoXGyS9Pu_urub1bTIQQoYYCaAKRhc" alt="profilepic">
+    </div>    
+        <br>
+    <div>    
+        <p>
+            Hi I am Shivang Sharma.
+            I am first year undergrad at Indian Institute of Information Technology, Ranchi. 
+        </p>
+    </div>
+        <br>
+    <div>
+        <a href="https://www.linkedin.com/in/shivang-sharma-443518224">Linkedin</a>
+    </div>
+</body>
+</html>
