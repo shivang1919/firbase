@@ -17,3 +17,7 @@
 .intro a{
     color: azure;
 }
+.sticker{
+    height: 4vh;
+    width: 4vw;
+    border-rabdius: 50%;
